@@ -2,7 +2,7 @@
 
 This is an advanced spyware tool developed to demonstrate the workings of a spyware and how it tries to steal user's data.
 
-<h2>DISCLAMIER</h2>
+<h2>DISCLAIMER</h2>
 
 This python program is for educational purpose only. Don't use it for any malicious purpose. The author of this program will not be responsible for any kind of malicious activity.
 
